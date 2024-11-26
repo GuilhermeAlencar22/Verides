@@ -124,6 +124,13 @@ Comentários;
 Dados de contato (opcional).
 O voluntário preenche os dados: Tipo de feedback “Positivo”, Comentários “Adorei o projeto, muito bem estruturado e fácil de usar”, E-mail “voluntario@gmail.com”. A equipe Verides é notificada e pode responder conforme necessário.
 
+## Backlog: 
+![image](https://github.com/user-attachments/assets/d9a2f544-35e6-46b1-85ea-b0c34006b2f8)
+
+## Board:
+![image](https://github.com/user-attachments/assets/4c741994-2130-4dbf-bf8f-3bb2d4af895e)
+
+
 ## Screencast das Historias Implementadas:
 
 ## Screencast dos Prototipos:
