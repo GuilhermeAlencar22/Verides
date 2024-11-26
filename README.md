@@ -140,3 +140,5 @@ O voluntário preenche os dados: Tipo de feedback “Positivo”, Comentários �
 ## Prototipo de Media (Figma):
 
 ## Diagrama de Atividades:
+![image](https://github.com/user-attachments/assets/8df930ee-9837-48d4-9d17-797cb2a3a9db)
+
