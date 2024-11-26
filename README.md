@@ -67,8 +67,69 @@ O Verides foi desenvolvido com as seguintes tecnologias:
 
 ## SR2:
 
-## Screencast: 
+## Historias de Usuario(Jira):
 
-## Prototipo de Media:
+- H1 - Cadastro de Voluntário 
+Como Visitante, eu gostaria de me cadastrar como voluntário para poder contribuir com o projeto da Verides.
 
-## Link do Jira(StoryBoards):
+O visitante deve poder preencher um formulário com as seguintes informações:
+
+Nome completo;
+E-mail;
+Telefone;
+Disponibilidade para atividades (semanal, mensal, etc.);
+Endereço (opcional);
+Interesses e habilidades (opcional);
+O visitante preenche os dados: Nome completo “João da Silva”, E-mail “joaodasilva@gmail.com”, Telefone “81 987654321”, Disponibilidade “5 horas semanais”, Endereço “Rua A, 123”.
+
+O visitante não consegue se cadastrar caso não preencha algum dado obrigatório. Ex: Nome completo “ ” / E-mail “ ” / Telefone “ ”.
+
+
+- H2 - Doação Rápida e Segura
+Como Doador, eu gostaria de fazer uma doação de forma simples e segura, para contribuir com o projeto.
+
+O doador deve poder escolher entre valores sugeridos ou inserir um valor personalizado:
+
+Seleção de valor sugerido ou campo para valor personalizado;
+O doador preenche os dados: Valor “R$ 50,00”, PIX, E-mail “doador@gmail.com”.
+
+- H3 - Compreensão da Causa da Empresa
+Como Visitante, eu gostaria de entender melhor a causa da ONG e como o projeto impacta a comunidade e o meio ambiente.
+
+O visitante deve poder acessar uma seção "Sobre Nós" que apresenta:
+
+A missão e visão da empresa;
+O impacto social e ambiental do projeto;
+Detalhes sobre as campanhas em andamento e valores da empresa.
+O visitante acessa a página “Sobre Nós” e lê as informações: “A ONG tem como missão promover a sustentabilidade através de brinquedos ecológicos feitos por voluntários e recicladores.” Ao clicar, ele conhece mais sobre as campanhas e o impacto da empresa.
+
+- H4 - Conexão com Lojistas para Parcerias
+Como Lojista, eu gostaria de me conectar com a Verides para oferecer minha loja como parceira do projeto.
+
+O lojista deve poder preencher um formulário de parceria com:
+
+Nome da loja;
+Dados de contato (telefone e e-mail);
+Proposta de parceria (descrição);
+Endereço da loja.
+O lojista preenche os dados: Nome da loja “Loja Sustentável”, Telefone “81 999876543”, E-mail “lojasustentavel@gmail.com”, Proposta de parceria “Doação de brinquedos reciclados”, Endereço “Rua das Flores, 456”.
+
+- H5 - Envio de Feedback
+Como Voluntário ou Doador, eu gostaria de poder enviar um feedback sobre a plataforma ou o projeto, para ajudar na melhoria contínua da Verides.
+
+O voluntário ou doador deve poder enviar um feedback preenchendo:
+
+Tipo de feedback (positivo ou negativo);
+Comentários;
+Dados de contato (opcional).
+O voluntário preenche os dados: Tipo de feedback “Positivo”, Comentários “Adorei o projeto, muito bem estruturado e fácil de usar”, E-mail “voluntario@gmail.com”. A equipe Verides é notificada e pode responder conforme necessário.
+
+## Screencast das Historias Implementadas:
+
+## Screencast dos Prototipos:
+
+## Screencast dos Testes: 
+
+## Prototipo de Media (Figma):
+
+## Diagrama de Atividades:
