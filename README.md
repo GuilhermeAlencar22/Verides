@@ -64,3 +64,11 @@ O Verides foi desenvolvido com as seguintes tecnologias:
 <li>
     https://verides-bkfeawbha8bsbxaw.brazilsouth-01.azurewebsites.net/
 </li>
+
+## SR2:
+
+## Screencast: 
+
+## Prototipo de Media:
+
+## Link do Jira(StoryBoards):
